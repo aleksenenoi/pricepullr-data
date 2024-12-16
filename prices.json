@@ -1,0 +1,230 @@
+{
+  "lastUpdated": "2024-12-16T23:24:18.701Z",
+  "stores": [
+    {
+      "name": "Publix",
+      "prices": [
+        {
+          "product": "White Eggs",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "Publix",
+      "prices": [
+        {
+          "product": "Whole Milk",
+          "price": 4.19
+        }
+      ]
+    },
+    {
+      "name": "Publix",
+      "prices": [
+        {
+          "product": "Orange Juice",
+          "price": 3.89
+        }
+      ]
+    },
+    {
+      "name": "Publix",
+      "prices": [
+        {
+          "product": "Ground Turkey",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "name": "Publix",
+      "prices": [
+        {
+          "product": "Bananas",
+          "price": 0.69
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "prices": [
+        {
+          "product": "White Eggs",
+          "price": 3.29
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "prices": [
+        {
+          "product": "Whole Milk",
+          "price": 4.09
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "prices": [
+        {
+          "product": "Orange Juice",
+          "price": 3.79
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "prices": [
+        {
+          "product": "Ground Turkey",
+          "price": 6.49
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "prices": [
+        {
+          "product": "Bananas",
+          "price": 0.65
+        }
+      ]
+    },
+    {
+      "name": "Whole Foods",
+      "prices": [
+        {
+          "product": "White Eggs",
+          "price": 4.19
+        }
+      ]
+    },
+    {
+      "name": "Whole Foods",
+      "prices": [
+        {
+          "product": "Whole Milk",
+          "price": 4.89
+        }
+      ]
+    },
+    {
+      "name": "Whole Foods",
+      "prices": [
+        {
+          "product": "Orange Juice",
+          "price": 4.59
+        }
+      ]
+    },
+    {
+      "name": "Whole Foods",
+      "prices": [
+        {
+          "product": "Ground Turkey",
+          "price": 7.99
+        }
+      ]
+    },
+    {
+      "name": "Whole Foods",
+      "prices": [
+        {
+          "product": "Bananas",
+          "price": 0.89
+        }
+      ]
+    },
+    {
+      "name": "Trader Joe's",
+      "prices": [
+        {
+          "product": "White Eggs",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "name": "Trader Joe's",
+      "prices": [
+        {
+          "product": "Whole Milk",
+          "price": 4.49
+        }
+      ]
+    },
+    {
+      "name": "Trader Joe's",
+      "prices": [
+        {
+          "product": "Orange Juice",
+          "price": 4.29
+        }
+      ]
+    },
+    {
+      "name": "Trader Joe's",
+      "prices": [
+        {
+          "product": "Ground Turkey",
+          "price": 6.79
+        }
+      ]
+    },
+    {
+      "name": "Trader Joe's",
+      "prices": [
+        {
+          "product": "Bananas",
+          "price": 0.59
+        }
+      ]
+    },
+    {
+      "name": "Aldi's",
+      "prices": [
+        {
+          "product": "White Eggs",
+          "price": 2.99
+        }
+      ]
+    },
+    {
+      "name": "Aldi's",
+      "prices": [
+        {
+          "product": "Whole Milk",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "name": "Aldi's",
+      "prices": [
+        {
+          "product": "Orange Juice",
+          "price": 3.49
+        }
+      ]
+    },
+    {
+      "name": "Aldi's",
+      "prices": [
+        {
+          "product": "Ground Turkey",
+          "price": 5.99
+        }
+      ]
+    },
+    {
+      "name": "Aldi's",
+      "prices": [
+        {
+          "product": "Bananas",
+          "price": 0.49
+        }
+      ]
+    }
+  ]
+}
