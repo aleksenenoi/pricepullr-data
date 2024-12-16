@@ -1,0 +1,23 @@
+name: Update Prices
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Runs every Monday at 9 AM
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Download JSON from Google Drive
+        run: |
+          curl -L "${{ secrets.GOOGLE_DRIVE_JSON_URL }}" -o prices.json
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add prices.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update prices" && git push)
